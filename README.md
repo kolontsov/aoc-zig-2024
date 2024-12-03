@@ -1,2 +1,1 @@
-# aoc-zig-2024
-Advent of Code 2023 in Zig
+Learning Zig with [Advent of Code 2024](https://adventofcode.com/2024)
